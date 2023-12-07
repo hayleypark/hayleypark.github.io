@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I'm currently working in the area of natural language understanding at Amazon in Seattle, WA. If you have any questions, please feel free to reach me at [hayley.uiuc\@gmail.com](mailto:hayley.uiuc@gmail.com)
+I'm currently working in the area of natural language understanding at Amazon in Seattle, WA. If you have any questions, please feel free to reach me at [hayley.uiuc@gmail.com](mailto:hayley.uiuc@gmail.com)
 
 I did my PhD in Computational Linguistics at the University of Illinois at Urbana-Champaign [dissertation](https://www.ideals.illinois.edu/items/125303). I worked on developing computational methods for low-resource languages with my advisor [Prof. Lane Schwartz](http://dowobeha.github.io/). My projects also included [multilingual language modeling (TACL 2021)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00365/98237/Morphology-Matters-A-Multilingual-Language) and language modeling and [dependency parsing for low-resource languages](https://aclanthology.org/2021.americasnlp-1.14.pdf).
 
