@@ -1,0 +1,20 @@
+---
+title: "Passed my PhD qualifying exam!"
+layout: post
+date: 2018-11-15 22:10
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- PhD
+- QE
+star: false
+category: blog
+author: hayley
+description: "PhD qualifying exam"
+---
+
+I just learned that I passed my PhD qualifying exam (with flying colors, I might add)! I wrote and defended a research paper titled "Deconstructing writing and a writing scale: How a decision tree guides raters through a holistic, profile-based rating scale", which is invited for journal publication next year.
+
+So what's left is just to propose, write and defend a dissertation. That's easy, right? :D
+
+
