@@ -1,17 +1,16 @@
 ---
 title: About
-layout: page
+layout: paget
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I'm currently working in the area of natural language understanding at Amazon in Seattle, WA. If you have any questions, please feel free to reach me at [hayley.uiuc@gmail.com](mailto:hayley.uiuc@gmail.com)
+I’m an Applied Scientist at the [Generative AI Innovation Center](https://aws.amazon.com/ai/generative-ai/innovation-center/) at Amazon Web Services, where I help companies tackle real business problems by building GenAI applications. I’ve been at Amazon since September 2022 — before moving to AWS, I worked on making Alexa smarter for kids on the Alexa Kids team, and on voice experiences for Fire TV on the Fire TV SLU team.
 
-I did my PhD in Computational Linguistics at the University of Illinois at Urbana-Champaign [dissertation](https://www.ideals.illinois.edu/items/125303). I worked on developing computational methods for low-resource languages with my advisor [Prof. Lane Schwartz](http://dowobeha.github.io/). My projects also included [multilingual language modeling (TACL 2021)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00365/98237/Morphology-Matters-A-Multilingual-Language) and language modeling and [dependency parsing for low-resource languages](https://aclanthology.org/2021.americasnlp-1.14.pdf).
+My academic background is in Computational Linguistics — I completed my PhD at the University of Illinois at Urbana-Champaign, where I worked with [Prof. Lane Schwartz](http://dowobeha.github.io/) on computational methods for low-resource languages. My research spanned [multilingual language modeling (TACL 2021)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00365/98237/Morphology-Matters-A-Multilingual-Language), [dependency parsing for low-resource languages](https://aclanthology.org/2021.americasnlp-1.14.pdf)., and neural approaches to polysynthetic language modeling as part of the JSALT 2019 workshop ([Neural Polysynthetic Language Modeling](https://arxiv.org/abs/2005.05477)). My [dissertation](https://www.ideals.illinois.edu/items/125303) brought much of this work together. Alongside my PhD, I also completed an MS in Statistics in August 2021.
 
-In Summer 2021, I worked on [long document classification using Transformers](https://aclanthology.org/2022.acl-short.79/) as an Applied Scientist Intern at AWS. I worked as a graduate researcher at the 2019 Sixth Frederick Jelinek Memorial Summer School & Workshop on Speech and Language Technology (JSALT 2019) as a member of the [Neural Polysynthetic Language Modeling](https://arxiv.org/abs/2005.05477) team in Summer 2019.
+Before focusing on NLP research, I earned a master’s degree in Teaching English as a Second Language and published work in language assessment with [Prof. Xun Yan](https://linguistics.illinois.edu/directory/profile/xunyan). During my PhD, I also interned at AWS in Summer 2021, where I worked on [long document classification using Transformers](https://aclanthology.org/2022.acl-short.79/).
 
-During my PhD study, I also completed my MS degree in Statistics (Aug 2021).
-Prior to that, I earned a master's degree in Teaching English as a Second Language and published research papers in language assessment with [Prof. Xun Yan](https://linguistics.illinois.edu/directory/profile/xunyan).
+Feel free to reach out at [hayley.uiuc@gmail.com](mailto:hayley.uiuc@gmail.com) 
 
 ### Publications
 
