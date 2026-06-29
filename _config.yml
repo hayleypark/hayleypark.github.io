@@ -1,6 +1,6 @@
 # main text of home
 name: Hyunji Hayley Park, PhD
-bio: Applied Scientist @AWS
+bio: Applied Scientist @AWS | Generative AI Evaluation & Enterprise AI
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -54,7 +54,7 @@ email: hayley.uiuc@gmail.com
 authors:
     hayleypark:
         name: Hayley Park, PhD
-        bio: Natural Language Processing @Amazon
+        bio: Applied Scientist @AWS | Generative AI Evaluation & Enterprise AI
         external-image: false
         picture: profile.png
         #twitter: johndoe
